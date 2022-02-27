@@ -1,0 +1,15 @@
+{
+  "name": "html-css-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start" : "parcel ./src/*.html",
+  "build": "parcel build  ./src/*.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
+}
